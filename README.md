@@ -19,5 +19,5 @@ Autor Francisco Daniel Alvarez Chavez
 ## Guia de despliegue
 
 ## Instrucciones para ejecución 
-EN el documento se realizaron modificaciones
+EN el documento se realizaron modificaciones para SUBR A INTERNET
 ## Pruebas de Servicio
